@@ -14,12 +14,12 @@ dependencyResolutionManagement {
 }
 rootProject.name = "EastarMultiModule"
 include ':app'
+include ':base:base_network'
+include ':base:base_string'
+include ':base:base_resource'
+include ':base:common_ktx'
+include ':base:common_security'
 include ':feature_domain_a'
-include ':base_network'
-include ':base_string'
-include ':base_resource'
-include ':common_ktx'
-include ':common_security'
 include ':feature_data_a'
 include ':feature_domain_b'
 include ':feature_domain_c'
