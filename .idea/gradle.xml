@@ -7,23 +7,23 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="zulu-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/base" />
             <option value="$PROJECT_DIR$/base/base_network" />
             <option value="$PROJECT_DIR$/base/base_resource" />
             <option value="$PROJECT_DIR$/base/base_string" />
             <option value="$PROJECT_DIR$/base/common_ktx" />
             <option value="$PROJECT_DIR$/base/common_security" />
-            <option value="$PROJECT_DIR$/feature_data_a" />
-            <option value="$PROJECT_DIR$/feature_data_b" />
-            <option value="$PROJECT_DIR$/feature_data_c" />
-            <option value="$PROJECT_DIR$/feature_data_d" />
-            <option value="$PROJECT_DIR$/feature_domain_a" />
-            <option value="$PROJECT_DIR$/feature_domain_b" />
-            <option value="$PROJECT_DIR$/feature_domain_c" />
+            <option value="$PROJECT_DIR$/feature/feature_data_a" />
+            <option value="$PROJECT_DIR$/feature/feature_data_b" />
+            <option value="$PROJECT_DIR$/feature/feature_data_c" />
+            <option value="$PROJECT_DIR$/feature/feature_data_d" />
+            <option value="$PROJECT_DIR$/feature/feature_domain_a" />
+            <option value="$PROJECT_DIR$/feature/feature_domain_b" />
+            <option value="$PROJECT_DIR$/feature/feature_domain_c" />
           </set>
         </option>
       </GradleProjectSettings>
